@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Pra.Interfaces.WPF"
         mc:Ignorable="d"
-        Title="Programming Advanced - Interfaces" Height="798" Width="800" Loaded="Window_Loaded">
+        Title="Programming Advanced - Interfaces" Height="798" Width="800">
     <Grid>
         <Button x:Name="btnTVLivingRoomPower" Content="TV Woonkamer Power" HorizontalAlignment="Left" Margin="10,88,0,0" VerticalAlignment="Top" Width="200" Click="BtnTVLivingRoomPower_Click"/>
         <Label x:Name="lblTVLivingRoom" Content="TV is uit" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="200" FontWeight="Bold" HorizontalContentAlignment="Center" Background="Red" Height="73" VerticalContentAlignment="Center"/>
